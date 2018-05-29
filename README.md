@@ -21,7 +21,6 @@ RNN部分:
 	model.py 	
 
     输出结果不理想，乱码。。
-
  
-    [!train](train2.png)
-    [!run](run_train.png)
+    ![train](train2.png)
+    ![run](run_train.png)
